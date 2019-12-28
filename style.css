@@ -1,0 +1,41 @@
+html {
+    color: =internal-root-color;
+}
+
+body {
+    font-family:'Apple SD Gothic Neo', arial, sans-serif;
+    font-size: 13px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+#topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+li {
+    display: inline;
+    text-align: center:
+}
+
+#logo {
+   position: absolute;
+   top: 40%;
+   left: 40%;
+}
+
+#search-box {
+    position: absolute;
+    top: 53%;
+    left: 45%;
+}
